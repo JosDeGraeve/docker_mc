@@ -1,6 +1,6 @@
 FROM openjdk
 
-ENV mc_version 1.11
+ENV mc_version 1.11.2
 ENV server_jar minecraft_server.${mc_version}.jar
 ENV server_jar_list ${server_jar}
 
